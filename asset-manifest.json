@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.70759aea.chunk.css",
+    "main.js": "/E-Commerce/static/js/main.7bba2f5b.chunk.js",
+    "main.js.map": "/E-Commerce/static/js/main.7bba2f5b.chunk.js.map",
+    "runtime-main.js": "/E-Commerce/static/js/runtime-main.7fe18ad2.js",
+    "runtime-main.js.map": "/E-Commerce/static/js/runtime-main.7fe18ad2.js.map",
+    "static/css/2.2bd012cb.chunk.css": "/E-Commerce/static/css/2.2bd012cb.chunk.css",
+    "static/js/2.e3a4cc2c.chunk.js": "/E-Commerce/static/js/2.e3a4cc2c.chunk.js",
+    "static/js/2.e3a4cc2c.chunk.js.map": "/E-Commerce/static/js/2.e3a4cc2c.chunk.js.map",
+    "static/js/3.7f731ff4.chunk.js": "/E-Commerce/static/js/3.7f731ff4.chunk.js",
+    "static/js/3.7f731ff4.chunk.js.map": "/E-Commerce/static/js/3.7f731ff4.chunk.js.map",
+    "index.html": "/E-Commerce/index.html",
+    "static/css/2.2bd012cb.chunk.css.map": "/E-Commerce/static/css/2.2bd012cb.chunk.css.map",
+    "static/css/main.70759aea.chunk.css.map": "/E-Commerce/static/css/main.70759aea.chunk.css.map",
+    "static/js/2.e3a4cc2c.chunk.js.LICENSE.txt": "/E-Commerce/static/js/2.e3a4cc2c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/E-Commerce/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe18ad2.js",
+    "static/css/2.2bd012cb.chunk.css",
+    "static/js/2.e3a4cc2c.chunk.js",
+    "static/css/main.70759aea.chunk.css",
+    "static/js/main.7bba2f5b.chunk.js"
+  ]
+}
