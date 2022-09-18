@@ -1,4 +1,5 @@
 {
+  "homepage": "http://mohamedkbx.githup.io/E-Commerce/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,7 @@
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.2.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
@@ -26,6 +28,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
