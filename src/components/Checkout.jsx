@@ -30,7 +30,7 @@ const Checkout = () => {
                             {state.map(itemList)}
 
                             <li className="list-group-item d-flex justify-content-between">
-                                <span>Total (USD)</span>
+                                <span>Total (L.E)</span>
                                 <strong>L.E{total}</strong>
                             </li>
                         </ul>
